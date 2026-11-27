@@ -11,3 +11,9 @@ python econometrics.py data.xlsx --sheet "DADOS AGRUPADOS" --y unemployment --x 
 ```
 
 Check stationarity, structural breaks, reverse causality and lag sensitivity before any empirical interpretation. For levels with unit roots, consider transformations or a suitable cointegration model rather than relying on robust SEs alone.
+
+## Planilha complementar
+
+[Baixar a planilha aplicada em Excel](desocupacao_pib_selic.xlsx)
+
+O arquivo reúne o exercício com dados trimestrais de desocupação, PIB e Selic e as abas de diagnóstico e comparação de inferência. Ele é um material acadêmico de trabalho: os cálculos manuais devem ser reproduzidos independentemente antes de tratar os resultados como conclusões finais. O exercício não identifica efeitos causais.
